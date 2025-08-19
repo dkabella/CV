@@ -1,7 +1,7 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
+    degreepath: This is a degree path for Human and Social Dimensions of Science and Technology
     institution: Arizona State University
     advisors: Lindsay Smith, Jennifer Richter, Mary Margaret Fonow # for type.education.
     thesis: "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
