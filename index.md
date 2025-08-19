@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Dan Kabella
+Dr. Dan Alfaros Kabella
 
 ## Research Interests
 
