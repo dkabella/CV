@@ -7,7 +7,6 @@ main:
     thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2019 - 2023
     notes: 
-
   - type: education
     degreepath: MA, Anthropology # for type.education.
     institution: University of New Mexico
@@ -15,7 +14,6 @@ main:
     thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2014 - 2016
     notes: 
-    
   - type: education
     degreepath: BA, Anthropology # for type.education.
     institution: University of New Mexico
