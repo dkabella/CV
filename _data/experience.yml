@@ -1,13 +1,13 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
-    notes: In Progress
+    degreepath: This is a degree path PhD # for type.education.
+    institution: Arizona State University
+    department: Human and Social Dimension of Science and Technology
+    advisors:  # for type.education.
+    thesis: # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2019 - 2023
+    notes: 
     
   - type: job
     title: Example Job # for type.employment.
