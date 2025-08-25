@@ -15,7 +15,7 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     authors: Jane Doe
     conference: A Conference # for type:conference
     date: October 2024
-    notes: Upcoming
+    notes: 
     
   - type: conference
     title: "A Conference Publication"
