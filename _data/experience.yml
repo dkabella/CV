@@ -1,7 +1,7 @@
 main:
 
   - type: education
-    degreepath: PhD in Human and Social Dimensions of Science and Technology
+    degreepath: PhD, Human and Social Dimensions of Science and Technology
     institution: Arizona State University
     advisors: # Lindsay Smith, Jennifer Richter, Mary Margaret Fonow # for type.education.
     thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
@@ -9,7 +9,7 @@ main:
     notes: 
 
   - type: education
-    degreepath: MA Anthropology # for type.education.
+    degreepath: MA, Anthropology # for type.education.
     institution: University of New Mexico
     advisors:  #for type.education.
     thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
@@ -17,7 +17,7 @@ main:
     notes: 
     
   - type: education
-    degreepath: BA Anthropology # for type.education.
+    degreepath: BA, Anthropology # for type.education.
     institution: University of New Mexico
     advisors:  #for type.education.
     thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
@@ -25,10 +25,10 @@ main:
     notes: 
     
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
-    department: Department
-    years: 2024 - Present
+    title: Postdoctoral Fellow # for type.employment.
+    institution: University of California, San Francisco
+    department: Center for Tobacco Control Research and Education
+    years: 2023 - Present
     
   - type: service
     title: A role
