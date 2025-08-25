@@ -84,19 +84,19 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     notes: Trainee
 
   - type: award # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
-    title: Award Title
-    date: 2024
-    institution: Award Granting Institution # for type:award, type:grant
+    title: Social Justice Spotlight Award
+    date: 2023
+    institution: Arizona State University GPSA Justice, Equity, Diversity, and Inclusion # for type:award, type:grant
     amount: # for type:award, type:grant
-    awardedfor: "A Conference Publication" # for type:award. This will let you write the specific project if applicable. Include '' for short work and <i></i> for books and films.
+    awardedfor: Awarded for dissertation research engaging frontline communities in harm reduction efforts; recognized for advancing equity and community-based scholarship. # for type:award. This will let you write the specific project if applicable. Include '' for short work and <i></i> for books and films.
 
-  - type: art
-    title: <i>An Art Project</i>
-    authors: Sean Purcell
-    date: 2022
-    image: ./assets/img/TI_ProdStill1.png
-    displayed: Displayed at a gallery. 
-    medium: Made of specific materials.
+  # - type: art
+    #title: <i>An Art Project</i>
+   # authors: Sean Purcell
+   # date: 2022
+   # image: ./assets/img/TI_ProdStill1.png
+    #displayed: Displayed at a gallery. 
+   # medium: Made of specific materials.
         
 #  - type: # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
 #    title: 
