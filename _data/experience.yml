@@ -20,7 +20,7 @@ main:
     advisors:  #for type.education.
     thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2010 - 2014
-    notes: 
+    notes:  
     
   - type: job
     title: Postdoctoral Fellow # for type.employment.
