@@ -1,20 +1,28 @@
 main:
 
   - type: education
-    degreepath: This is a degree path for Human and Social Dimensions of Science and Technology
+    degreepath: PhD in Human and Social Dimensions of Science and Technology
     institution: Arizona State University
-    advisors: Lindsay Smith, Jennifer Richter, Mary Margaret Fonow # for type.education.
-    thesis: "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2018 - 2023
-    notes: In Progress
+    advisors: # Lindsay Smith, Jennifer Richter, Mary Margaret Fonow # for type.education.
+    thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2019 - 2023
+    notes: 
 
   - type: education
-    degreepath: This is a degree path # for type.education.
+    degreepath: MA Anthropology # for type.education.
     institution: University of New Mexico
-    advisors: Lindsay Smith, Jennifer Richter, Mary Margaret Fonow # for type.education.
-    thesis: "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2018 - 2023
-    notes: In Progress
+    advisors:  #for type.education.
+    thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2014 - 2016
+    notes: 
+    
+  - type: education
+    degreepath: BA Anthropology # for type.education.
+    institution: University of New Mexico
+    advisors:  #for type.education.
+    thesis: # "Recovery Futures: Mapping the Sociotechnical Landscape of Addiction Science and Recovery Medicine in New Mexico" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2010 - 2014
+    notes: 
     
   - type: job
     title: Example Job # for type.employment.
