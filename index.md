@@ -11,7 +11,6 @@ Dr. Dan Alfaros Kabella is a Xicanx trans organizer and scholar from Yrisarri, w
 - <strong>Archival practice and digital humanities:</strong> connecting industry archives, grassroots collections, and public engagement through exhibitions and multisensory storytelling
 - <strong>Critical histories of pharmaceuticals:</strong> methadone, naloxone, opioid industries, harm reduction, and their intersections with policy, colonialism, and social movements.
 
-
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/employment.md %}
