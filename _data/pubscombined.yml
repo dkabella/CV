@@ -26,7 +26,27 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     pub_abbr: Catalyst # for type:essay
     publication: Catalyst: Feminism, Theory, and Technoscience # for type:essay
     date: 2025
-    doi: hhttps://doi.org/10.28968/cftt.v11i1.43074 # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+    doi: https://doi.org/10.28968/cftt.v11i1.43074 # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+    image: #./assets/img/teaser_example_2.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
+    notes: 
+    
+  - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
+    title: "Making and touching: Multimodal encounters with overdose prevention"
+    authors: Dan Kabella, Maria Torres, Kochina Rude # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
+    pub_abbr: Multimodality & Society # for type:essay
+    publication: Multimodality & Society  # for type:essay
+    date: 2025
+    doi: https://doi-org.ucsf.idm.oclc.org/10.1177/263497952413064 # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+    image: #./assets/img/teaser_example_2.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
+    notes: 
+
+  - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
+    title: "Technologies of Repair: Naloxone, Opioid Overdose Prevention, and the Social Fabric"
+    authors: Dan Kabella # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
+    pub_abbr:  # for type:essay
+    publication: Medical Technology and the Social: How Medical Technology 	is Impacting Social relations, Institutions, and Beliefs about what is Normal  # for type:essay
+    date: 2024
+    doi: https://www.bloomsbury.com/us/medical-technology-and-the-social-9781666940947/ # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
     image: #./assets/img/teaser_example_2.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
     notes: 
     
